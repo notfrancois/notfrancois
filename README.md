@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ```ts
-const me = (value = "devops culture") => {
-  console.log(`Having fun with ${value}!`);
+const me = (value = "sr. full-stack (currently focus on backend)") => {
+  console.log(`working as ${value}!`);
 };
 ```
 
@@ -12,7 +12,7 @@ print('👨🏻‍💻 by day && night 😎')
 
 ```prolog
 job_title(X) :-
-    member(X, ['senior lead', 'dotnet', 'domain driven design', 'microservices', 'microfrontends']).']),
+    member(X, ['senior lead', 'dotnet', 'domain driven design', 'microservices', 'distributed systems', 'event driven architecture']).']),
     \+ member(X, ['full stack @ always']).
 ```
 
